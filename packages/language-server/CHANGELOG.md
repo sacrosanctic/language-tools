@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.17.31
+
+### Patch Changes
+
+-   fix: prevent duplicate diagnostics ([#3000](https://github.com/sveltejs/language-tools/pull/3000))
+
+-   Updated dependencies [[`8b103ba`](https://github.com/sveltejs/language-tools/commit/8b103bab7a8234397a8d4b88f75c88514354b5c5)]:
+    -   svelte2tsx@0.7.54
+
 ## 0.17.30
 
 ### Patch Changes
